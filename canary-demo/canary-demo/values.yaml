@@ -35,3 +35,4 @@ slo:
   availability:
     target: 99.9
     errorBudgetPeriod: "30d"
+
